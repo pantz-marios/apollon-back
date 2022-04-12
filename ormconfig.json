@@ -1,0 +1,8 @@
+{
+    "type": "sqlite",
+    "database": "./profile/db/apollon.db",
+    "entities": ["dist/**/*.entity.js"],
+    "logging": true,
+    "synchronize": true
+  }
+  
